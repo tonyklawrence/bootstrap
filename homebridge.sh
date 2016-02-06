@@ -5,4 +5,4 @@
 #
 # sh -c "`curl https://raw.githubusercontent.com/tonyklawrence/bootstrap/master/homebridge.sh`"
 
-echo "Hello"
+sh -c "`curl -sS https://babushka.me/up`" </dev/null
